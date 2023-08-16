@@ -191,7 +191,7 @@ for i in range(len(unique_functions)):
         stdev = 0.0
 
     mean_stdev[i][0] = mean
-    mean_stdev[i][0] = stdev
+    mean_stdev[i][1] = stdev
 
 
 
